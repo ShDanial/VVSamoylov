@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VVSamoylov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет! Я Самойлов Вениамин
+- 👀 Я Занимаюсь разработкой и системным администрированием Linux
+- 🌱 Сейчас занимаюсь изучением Rust.
+- 💞️ Меня нет в однокласниках, facebook, vk, telegram, и прочих подобных сетях. 
+- 📫 Языки которые использую в работе java, golang, javascript, C++
 
 <!---
 VVSamoylov/VVSamoylov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
